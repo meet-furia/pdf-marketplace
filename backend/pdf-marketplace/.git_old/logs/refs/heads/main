@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 d9cce61f0428f3b23b1432e2dec407872ec44ff9 Meet Furia <furia.meet@gmail.com> 1778327211 +0530	commit (initial): Initial commit
+d9cce61f0428f3b23b1432e2dec407872ec44ff9 ac9f81a751727dd0c19616cf4742ffc4472a7f0d Meet Furia <furia.meet@gmail.com> 1778333219 +0530	commit: refactor: replace Auth0 user registration with Supabase

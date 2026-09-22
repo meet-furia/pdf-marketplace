@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 09656c7a8e661352a97223d244ecfb550740c09a Meet Furia <furia.meet@gmail.com> 1781435521 +0530	branch: Created from dev^0
+09656c7a8e661352a97223d244ecfb550740c09a 8aaead9fc1b4714eaaf17f771497b14fb96fe73a Meet Furia <furia.meet@gmail.com> 1782024202 +0530	commit: feat: support non-video product uploads and validate seller payout details
+8aaead9fc1b4714eaaf17f771497b14fb96fe73a 2feae43aac9f9bc5ca3eb9b71112a0681a789901 Meet Furia <furia.meet@gmail.com> 1782024256 +0530	commit: feat: support non-video product uploads and validate seller payout details
+2feae43aac9f9bc5ca3eb9b71112a0681a789901 82aabf9963e2a185618cf025d4ef3eb9f100562a Meet Furia <furia.meet@gmail.com> 1782120165 +0530	commit: feat: refactor checkout, orders, and provider-specific payments

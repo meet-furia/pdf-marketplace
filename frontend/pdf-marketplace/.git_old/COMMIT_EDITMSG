@@ -1,0 +1,8 @@
+feat: add Supabase auth and backend registration
+
+- Modularize auth UI into components, hooks, and services
+- Add email/password signup, login, and Google OAuth
+- Gate app access behind Supabase email verification
+- Add token-aware API client for Spring Boot calls
+- Register verified users with backend auth endpoint
+- Configure environment-based API URL and local proxy

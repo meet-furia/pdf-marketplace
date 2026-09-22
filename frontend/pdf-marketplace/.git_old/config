@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = Meet Furia
+	email = furia.meet@gmail.com
+[remote "origin"]
+	url = https://github.com/meet-furia/pdf-marketplace-frontend.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "feat/supabase-auth"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/feat/supabase-auth
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+	vscode-merge-base = origin/main

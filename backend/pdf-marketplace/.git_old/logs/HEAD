@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 d9cce61f0428f3b23b1432e2dec407872ec44ff9 Meet Furia <furia.meet@gmail.com> 1778327211 +0530	commit (initial): Initial commit
+d9cce61f0428f3b23b1432e2dec407872ec44ff9 ac9f81a751727dd0c19616cf4742ffc4472a7f0d Meet Furia <furia.meet@gmail.com> 1778333219 +0530	commit: refactor: replace Auth0 user registration with Supabase
+ac9f81a751727dd0c19616cf4742ffc4472a7f0d ac9f81a751727dd0c19616cf4742ffc4472a7f0d Meet Furia <furia.meet@gmail.com> 1778830601 +0530	checkout: moving from main to main
+ac9f81a751727dd0c19616cf4742ffc4472a7f0d ac9f81a751727dd0c19616cf4742ffc4472a7f0d Meet Furia <furia.meet@gmail.com> 1778830622 +0530	checkout: moving from main to dev
+ac9f81a751727dd0c19616cf4742ffc4472a7f0d a5555093a129e1fe7dd9f2489bdcee1c26a4937a Meet Furia <furia.meet@gmail.com> 1780477440 +0530	commit: feat: build core PDF marketplace backend MVP
+a5555093a129e1fe7dd9f2489bdcee1c26a4937a b8c7bdb8da800139449ebb07ff7c483a21364261 Meet Furia <furia.meet@gmail.com> 1780477708 +0530	commit: feat: build core PDF marketplace backend MVP
+b8c7bdb8da800139449ebb07ff7c483a21364261 08ca0749d59c17e1c390f7c3d0651b0bf4f0bb09 Meet Furia <furia.meet@gmail.com> 1780477790 +0530	commit: feat: build core PDF marketplace backend MVP
+08ca0749d59c17e1c390f7c3d0651b0bf4f0bb09 9da66edb3cde8d55ec000cfadddac7ca026a4b62 Meet Furia <furia.meet@gmail.com> 1780478821 +0530	commit: feat: add admin approval and seller dashboard MVP
+9da66edb3cde8d55ec000cfadddac7ca026a4b62 9f2d7d808b42b603e29f6f84b80a23d844fd0e19 Meet Furia <furia.meet@gmail.com> 1780479312 +0530	commit: feat: add paginated public product listing
+9f2d7d808b42b603e29f6f84b80a23d844fd0e19 09656c7a8e661352a97223d244ecfb550740c09a Meet Furia <furia.meet@gmail.com> 1781168368 +0530	commit: feat: add paginated public product listing
+09656c7a8e661352a97223d244ecfb550740c09a 09656c7a8e661352a97223d244ecfb550740c09a Meet Furia <furia.meet@gmail.com> 1781435521 +0530	checkout: moving from dev to feat/cart-pdf-upload-refactor
+09656c7a8e661352a97223d244ecfb550740c09a 8aaead9fc1b4714eaaf17f771497b14fb96fe73a Meet Furia <furia.meet@gmail.com> 1782024202 +0530	commit: feat: support non-video product uploads and validate seller payout details
+8aaead9fc1b4714eaaf17f771497b14fb96fe73a 2feae43aac9f9bc5ca3eb9b71112a0681a789901 Meet Furia <furia.meet@gmail.com> 1782024256 +0530	commit: feat: support non-video product uploads and validate seller payout details
+2feae43aac9f9bc5ca3eb9b71112a0681a789901 82aabf9963e2a185618cf025d4ef3eb9f100562a Meet Furia <furia.meet@gmail.com> 1782120165 +0530	commit: feat: refactor checkout, orders, and provider-specific payments
+82aabf9963e2a185618cf025d4ef3eb9f100562a 09656c7a8e661352a97223d244ecfb550740c09a Meet Furia <furia.meet@gmail.com> 1782120394 +0530	checkout: moving from feat/cart-pdf-upload-refactor to dev
+09656c7a8e661352a97223d244ecfb550740c09a dd894c8433b3ece5d3a336815874315bf0bca233 Meet Furia <furia.meet@gmail.com> 1782120406 +0530	merge origin/dev: Fast-forward
